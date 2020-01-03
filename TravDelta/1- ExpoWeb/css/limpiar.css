@@ -1,0 +1,9 @@
+.limpiar {
+	*display: inline-block;
+}
+* html .limpiar {
+	height: 1%;
+}
+.limpiar:after {
+	content: "."; display: block; height: 0; clear: both; visibility: hidden; font-size: 0;
+}

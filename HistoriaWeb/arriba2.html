@@ -1,0 +1,9 @@
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<p id="arriba2" class="boton-top" style="cursor:pointer;">Ir arriba</p>
+<script type="text/javascript">
+  $('.boton-top').click(function(){
+    $('body,html').animate({scrollTop : 0}, 1000);
+    return false;
+  });
+</script>

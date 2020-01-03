@@ -1,0 +1,153 @@
+/*
+* Proyecto Web final
+* MAteria: Historia
+* Grupo: 1º BL Nocturno
+* Profesor: Leonardo Guedes Marrero
+* Código y diseño: Leandro Funes
+* Mail: leorecord@hotmail.com
+* Año: 2017
+*/
+
+@font-face {
+  font-family:impact;
+  src: url(../media/font/impact.ttf);
+}
+/*header {
+  //height:50px;
+  display:flex;
+  flex-wrap: wrap;
+}*/
+.menu > a {
+  //border:1px solid red;
+  padding:20px 0px 20px 0px;
+}
+.menu > a:hover {
+  color:#fff;
+}
+.btn-menu {
+  border-radius:0px;
+}
+/*header nav {
+	z-index:999;
+}
+
+.menu_bar {
+	display:none;
+}
+
+header nav ul {
+  font-family:"arial";
+  letter-spacing:2px;
+	list-style:none;
+	overflow:hidden;
+}
+
+header nav ul li {
+	//float: left;
+  //border:1px solid red;
+  display:inline-block;
+}
+#ver:hover > div {
+  display:none;
+}
+
+header nav ul li span {
+	margin-right:10px;
+}
+
+header nav ul li a {
+	display:block;
+	padding:20px;
+	color:#fff;
+	text-decoration:none;
+  font-size:15px;
+  transition:0.2s background;
+  position:relative;
+  bottom:0px;
+}
+
+header nav ul li a:hover {
+	//background:rgba(157, 7, 0, 0.5);
+  color:#F0D7AF;
+}
+
+#menu a > img {
+  position:absolute;
+  width:111px;
+  overflow: hidden;
+}
+#menu > li {
+  position:relative;
+  left:110px;
+}
+#logo {
+  width:111px;
+  //height:57px;
+  background-image:url("../media/logo1.jpg");
+  background-size:118px;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  transition:0.2s all;
+}
+#logo:hover {
+  background-image:url("../media/logo2-2.jpg");
+  background-position: center;
+  background-size:118px;
+  background-repeat: no-repeat;
+}
+@media screen and (max-width:800px) {
+  header nav{
+		width:60%;
+		height:100%;
+		margin:0;
+		position: fixed;
+		left:-100%;
+		overflow:auto;
+    background:rgba(4, 20, 30, 0.9);
+	}
+  #inicio {
+    border-top:5px solid rgba(157, 7, 0, 0.8);
+  }
+  header nav ul > li {
+    border-right:5px solid rgba(157, 7, 0, 0.8);
+  }
+
+	.menu_bar {
+    display:block;
+		width:100%;
+	}
+
+	.menu_bar .bt-menu {
+		display:block;
+		padding:20px;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing:border-box;
+		background:rgba(4, 20, 30, 0.9);
+		overflow: hidden;
+		font-size:25px;
+		font-weight:bold;
+		color:orange;
+    font-family:arial;
+    letter-spacing: 2px;
+		text-decoration:none;
+    z-index:999;
+	}
+
+	.menu_bar span {
+		float:right;
+	}
+
+	header nav ul li {
+		display:block;
+		float:none;
+		border-bottom:1px solid rgba(255,255,255,.3);
+	}
+  #menu > a {
+    display:none;
+  }
+  #menu > li {
+    left:0px;
+  }
+}*/

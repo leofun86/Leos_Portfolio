@@ -1,0 +1,229 @@
+/*
+* Proyecto Web final
+* MAteria: Historia
+* Grupo: 1º BL Nocturno
+* Profesor: Leonardo Guedes Marrero
+* Código y diseño: Leandro Funes
+* Mail: leorecord@hotmail.com
+* Año: 2017
+*/
+header, footer {
+  //background:#666;
+}
+header {
+  border-top:0px;
+}
+footer {
+  color:#2F628F;
+}
+.indice > a > span {
+  filter:opacity(0);
+  transition:0.2s all;
+}
+.indice > a:hover > span {
+  filter:opacity(1);
+}
+.contindex {
+  //border:1px solid red;
+  margin:0px auto;
+  width:90%;
+  margin-top:-40px;
+  margin-bottom:-40px;
+}
+.contindex > a {
+  background-color:rgba(4, 20, 30, 0.9);
+  outline:2px solid rgba(157, 7, 0, 0.0);
+  font-size:15px;
+  margin: 5px 5px 5px 5px;
+  padding-top:60px;
+  transition:0.1s outline;
+}
+.contindex > a:hover {
+  outline: 2px solid /*rgba(157, 7, 0, 0.8)*/ #fff;
+}
+.tema {
+  //border:1px solid red;
+  padding:60px 125px;
+  opacity:0;
+  transition:0.2s opacity;
+}
+.tema:hover {
+  opacity:1;
+}
+#materia {
+  //border:1px solid red;
+  text-decoration:none;
+  width:450px;
+  height:85px;
+  //padding-top:70px;
+  color:white;
+  font-family:arial;
+  //font-size:25px;
+  display:inline-block;
+  //text-decoration:underline;
+  text-shadow: 0px 0px 4px #000;
+}
+#materia2 {
+  //border:1px solid red;
+  text-decoration:none;
+  width:450px;
+  height:75px;
+  //padding-top:70px;
+  color:white;
+  font-family:arial;
+  //font-size:25px;
+  display:inline-block;
+  //text-decoration:underline;
+  text-shadow: 0px 0px 4px #000;
+}
+.index1 {
+  background-image:url('../media/index/01.jpg');
+  filter:grayscale(60%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position:center;
+  transition:0.5s filter;
+}
+.index1:hover {
+  filter:grayscale(0%);
+}
+.index2 {
+  background-image:url('../media/index/02.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index2:hover {
+  filter:grayscale(0%);
+}
+.index3 {
+  background-image:url('../media/index/03.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index3:hover {
+  filter:grayscale(0%);
+}
+.index4 {
+  background-image:url('../media/index/04.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index4:hover {
+  filter:grayscale(0%);
+}
+.index5 {
+  background-image:url('../media/index/05.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index5:hover {
+  filter:grayscale(0%);
+}
+.index6 {
+  background-image:url('../media/index/06.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index6:hover {
+  filter:grayscale(0%);
+}
+.index7 {
+  background-image:url('../media/index/07.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index7:hover {
+  filter:grayscale(0%);
+}
+.index8 {
+  background-image:url('../media/index/08.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index8:hover {
+  filter:grayscale(0%);
+}
+.index9 {
+  background-image:url('../media/index/09.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index9:hover {
+  filter:grayscale(0%);
+}
+.index10 {
+  background-image:url('../media/index/10.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index10:hover {
+  filter:grayscale(0%);
+}
+.index11 {
+  background-image:url('../media/index/12.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index11:hover {
+  filter:grayscale(0%);
+}
+.index12 {
+  background-image:url('../media/index/11.jpg');
+  filter:grayscale(60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition:0.2s background-image, 0.2s;
+}
+.index12:hover {
+  filter:grayscale(0%);
+}
+#video {
+  width:100%;
+  height:100%;
+  position:absolute;
+  left:0px;
+  top:0px;
+  opacity:0.5;
+  z-index:-98;
+  overflow: hidden;
+  position:fixed;
+}
+video {
+  width:100%;
+}
+#ver {
+  text-decoration: none;
+  width:120px;
+  padding:7px 4px 7px 4px;
+  font-family:"arial";
+  font-size:13px;
+  background:rgba(4, 20, 30, 1);
+  border:2px solid rgba(157, 7, 0, 1);
+  border-radius:5px;
+  //position:relative;
+  //top:45px;
+  cursor:pointer;
+  margin:0px auto;
+  text-align: center;
+  color:#fff;
+}

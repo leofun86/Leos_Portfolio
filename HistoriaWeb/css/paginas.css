@@ -1,0 +1,301 @@
+/*
+* Proyecto Web final
+* MAteria: Historia
+* Grupo: 1º BL Nocturno
+* Profesor: Leonardo Guedes Marrero
+* Código y diseño: Leandro Funes
+* Mail: leorecord@hotmail.com
+* Año: 2017
+*/
+
+.bodypags {
+  background-image:url('../media/fondo_index.jpg');
+  background-position: center top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.bodypags2 {
+  background-image:url('../media/fondo_index2.jpg');
+  background-position: center top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.bodypags3 {
+  background-image:url('../media/fondo_index3.jpg');
+  background-position: center top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.bodypags4 {
+  background-image:url('../media/fondo_index4.jpg');
+  background-position: center top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#head {
+  //border:1px solid red;
+  color:#fff;
+  width:100%;
+  height:130px;
+  background-repeat: no-repeat;
+  background-position: 50% 0%;
+  background-size:cover;
+  border-bottom:3px solid rgba(157, 7, 0, 0.8);
+}
+#head > h2 {
+  position:relative;
+  font-family:'arial';
+  font-size:38px;
+  top:51px;
+  opacity:0.6;
+}
+#cuerpo2 {
+  width:80%;
+  background:#fff;
+  height:100%;
+  margin:0px auto;
+  padding-bottom:30px;
+}
+#cuerpo3 {
+  width:80%;
+  background:rgba(255, 255, 255, 1);
+  height:100%;
+  margin:0px auto;
+  padding-bottom:30px;
+}
+#cuerpo4 {
+  //border:1px solid red;
+  padding-top:40px;
+  width:100%;
+  height:650px;
+}
+#cuerpo5 {
+  //border:1px solid red;
+  padding-top:40px;
+  width:100%;
+  height:100%;
+}
+#cuerpo2 > img {
+  animation:img 2s;
+}
+@keyframes img {
+  from {opacity:0;}
+  to {opacity:1;}
+}
+#parrafo {
+  width:90%;
+  font-size:18px;
+  line-height: 140%;
+  font-family:"Times New Roman";
+  text-align:justify;
+  margin:0px auto;
+  position:relative;
+
+}
+#bibliografia {
+  border:1px solid #777;
+  padding:10px;
+  width:90%;
+  font-size:15px;
+  color:#333;
+  line-height: 140%;
+  font-family:"Times New Roman";
+  text-align:justify;
+  margin:0px auto;
+  position:relative;
+
+}
+#integrantes {
+  //border:1px solid red;
+  width:90%;
+  font-size:14px;
+  line-height: 140%;
+  font-family:"Times New Roman";
+  text-align:left;
+  color:#777;
+  animation:integ 1s;
+}
+.fotos {
+  width:50px;
+  //display:block;
+}
+span #integrantes {
+  // border:1px solid red;
+  position:relative;
+  bottom:50px;
+}
+.img {
+  width:100%;
+}
+.img2 {
+  width:55%;
+  border:1px solid #ccc;
+}
+.age {
+  font-family:"arial";
+  color:rgba(4, 20, 30, 1);
+  font-weight:bolder;
+  font-size:22px;
+}
+#leer {
+  padding:5px;
+  //background:rgba(4, 20, 30, 0.7);
+  color:#fff;
+  font-family:"arial";
+  font-size:14px;
+  width:100px;
+  text-align:center;
+  border-radius:4px;
+}
+#arriba {
+  padding:5px;
+  background:rgba(4, 20, 30, 0.7);
+  color:#fff;
+  font-family:"arial";
+  font-size:14px;
+  width:100px;
+  text-align:center;
+  border-radius:4px;
+}
+#arriba2 {
+  padding:5px;
+  background:#2b840f;
+  color:#fff;
+  font-family:"arial";
+  font-size:14px;
+  width:100px;
+  text-align:center;
+  border-radius:4px;
+}
+#leer:active {
+  background:rgba(4, 20, 30, 0.4);
+}
+#verAct {
+  padding:5px;
+  background:#2b840f;
+  color:#fff;
+  font-family:"arial";
+  font-size:14px;
+  width:100px;
+  text-align:center;
+  border-radius:4px;
+}
+.plegable{
+	width:100%;
+	max-height:0px;
+	overflow:hidden;
+	-webkit-transition: max-height 500ms ease-out;
+    -moz-transition: max-height 500ms ease-out;
+    -o-transition: max-height 500ms ease-out;
+    transition: max-height 500ms ease-out;
+}
+.plegable.desplegado{
+	max-height:100%;
+	-webkit-transition: max-height 500ms ease-out;
+    -moz-transition: max-height 500ms ease-out;
+    -o-transition: max-height 500ms ease-out;
+    transition: max-height 500ms ease-out;
+}
+.fuente {
+  color:#777;
+}
+#preg {
+  font-family:'arial';
+  font-size:18px;
+  //text-decoration:underline;
+  color:#700d0d;
+}
+#titulo {
+  font-family:"arial";
+  font-size:30px;
+  margin-bottom:15px;
+}
+#creditos {
+  font-family:"arial";
+  text-align:justify;
+  position:relative;
+  top:15px;
+  color:#fff;
+  padding-right:25px;
+}
+#creditos2 {
+  position:relative;
+  left:20px;
+}
+.fondoCred {
+  background:rgba(0,0,0, 0.4);
+  padding:10px 10px 30px 10px;
+  width:500px;
+  border-radius:40px;
+}
+#contobjetivos {
+  font-family:"arial";
+  position:relative;
+  top:15px;
+  color:#fff;
+}
+#objetivos {
+  width:40%;
+  margin:0px 0px 0px 100px;
+  text-align:justify;
+}
+#reflexiones {
+  width:50%;
+  margin:0px 0px 0px 100px;
+  text-align:justify;
+}
+#sopa {
+  //border:1px solid red;
+  height:580px;
+}
+#sopa {
+  //border:1px solid red;
+  margin:80px 0px 0px 0px;
+  width:50%;
+  height:100%;
+}
+#sopa > a {
+  //border:1px solid red;
+  text-decoration:none;
+  padding:5px;
+  background:rgba(4, 20, 30, 0.9);
+  margin:3px 0px 3px 0px;
+}
+#sopa > a:hover {
+  outline:1px solid white;
+  text-decoration:none;
+}
+#youtube {
+  width:220px;
+  background:#880903;
+  color:white;
+  font-family:"arial";
+  padding:5px;
+  border-radius:10px;
+}
+#youtube a:visited {
+  color:#aaa;
+}
+#vidY {
+  border:1px solid #000;
+  padding:20px;
+  background:rgba(4, 20, 30, 0.9);
+  margin:0px auto;
+  width:80%;
+}
+#vidY > div {
+  width:48%;
+  //border:1px solid red;
+  margin-left:10px;
+  display:inline-block;
+  color:#fff;
+  font-family:"arial";
+}
+#vidY > iframe {
+  width:50%;
+  height:315px;
+}

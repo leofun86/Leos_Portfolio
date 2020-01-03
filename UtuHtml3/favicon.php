@@ -1,0 +1,1 @@
+<link rel="icon" tipe="image/png" href="media/favicon.png" sizes="64x64" />

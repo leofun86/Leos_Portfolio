@@ -1,0 +1,195 @@
+/*-- Travesías Delta © Todos los derechos reservados --*/
+/*-- Diseño: Leo Funes - http://www.auto-didacta.tk ---*/
+
+@import url("index.css");
+
+@import url("limpiar.css");
+
+/*-- FORMATEO BASE*/
+	@font-face {
+		font-family: Rage Italic;
+		font-style:normal;
+		font-weight:normal;
+		src: local("?"), url("../font/rage_italic.woff") format("woff"), url("../font/rage_italic.ttf") format("truetype");
+	}
+	@font-face {
+		font-family: Monaco;
+		font-style:normal;
+		font-weight:normal;
+		src: local("?"), url("../font/monaco.woff") format("woff"), url("../font/monaco.ttf") format("truetype");
+	}
+	@font-face {
+		font-family: League gothic;
+		font-style:normal;
+		font-weight:normal;
+		src: local("?"), url("../font/League gothic.woff") format("woff"), url("../font/League gothic.ttf") format("truetype");
+	}
+	body {
+		font-family: arial;
+		background:	url(../back.jpg) #041549 center no-repeat fixed;
+	}
+
+/*DIVS ESTRUCTURA*/
+	div#contenedor {
+		width:1100px;
+		height:100%px;
+		margin: 0 auto;
+		position:relative;
+		top:20px;
+	}
+	div#cabecera {
+		width:100%;
+		height:100px;
+		background:#5B7899;
+		border-bottom:2px solid #a1a1a1;
+		border-top-right-radius:20px;
+		border-top-left-radius:20px;
+	}
+	div#contenido {
+		width:100%;
+		height:100%;
+		background:url(../backcont2.jpg) #3A401C no-repeat top;	
+	}
+	div#pie {
+		width:100%;
+		height:50px;
+		background:#5B7899;
+		border-top:2px solid #A1A1A1;
+		border-bottom-right-radius:20px;
+		border-bottom-left-radius:20px;
+		position:relative;
+	}
+	div#pie p {
+		font-size:15px;
+		position:relative;
+		top:10px;
+		left:20px;
+	}
+	
+/*-- LOGO --*/
+	div#logo {
+		//border:1px solid black;
+		width:300px;
+		height:65px;
+		font-family:Rage Italic;
+		margin:0 auto;
+		position:relative;
+		left:12px;
+		top:12px;
+		float:left;
+	}
+	span#logo {
+		//color:#36C;
+		//color:#C7D5E6;
+		color:#FCE7CA;
+		font-size:50px;
+		text-shadow: 2px 2px 5px #444;
+	}
+	span#slogan p {
+		font-family:arial;
+		font-style:italic;
+		font-size:18px;
+		text-shadow:1px 2px 2px #444;
+		//color:#A8BAD1;
+		color:#C7D5E6;
+		margin-top:-22px;
+		position:relative;
+		left:90px;
+	
+	}
+	
+/*-- MENU --*/	
+	ul.menu {
+		font-family: Rage Italic;
+		position:relative;
+		top:40px;
+		left:80px;
+		z-index:700;
+	}
+	ul.menu, ul.submenu {
+		list-style:none;
+		font-size:30px;
+		display:block;
+		margin:0;
+		padding:0;	
+	}
+	ul.menu > li {
+		float:left;
+		background:#EEE;
+		margin:0.5px;
+		-webkit-transition: background 0.2s, color 0.5s;
+		transition: background 0.2s;
+	}
+	ul.menu li:hover {
+		background:#82A9D4;
+	}
+	ul.menu a, ul.submenu a {
+		text-decoration:none;
+		color:#AAAAAA;
+		padding:4px 12px;
+		display:block;
+		-webkit-transition: color 0.5s;
+		transition: color 0.5s;
+	}
+	ul.menu a:hover, ul.submenu a:hover {
+		color:#F9F9F9;	
+	}
+	ul.submenu {
+		display:none;
+		position:absolute;
+		font-size:27px;
+		top:45px;
+	}
+	ul.submenu li {
+		background:#EEE;
+		width:158px;
+		-webkit-animation: opacidad 0.6s;
+		animation: opacidad 0.6s;	
+	}
+	@-webkit-keyframes opacidad {
+		0% {opacity:0;}
+		100% {opacity:1;}	
+	}
+	ul.submenu li a {
+		padding-right:32px;
+	}
+	ul.menu li:hover > ul {
+		display:block;
+	}
+	li#inicio {
+		border-top-left-radius:10px;
+		border-bottom-left-radius:10px;
+	}
+	li#contacto {
+		border-top-right-radius:10px;
+		border-bottom-right-radius:10px;	
+	}
+	li#requisitos {
+		border-bottom-right-radius:10px;
+		border-bottom-left-radius:10px;	
+	}
+	div#aviso {
+		background:black;
+		border-top-left-radius:10px;
+		border-top-right-radius:10px;
+		border-bottom-left-radius:10px;
+		border-bottom-right-radius:10px;
+		position:relative;
+		bottom:15px;
+		opacity: 0.6;
+	}
+	p#avisoText {
+		color:white;
+		font-size:12px;
+		font-family:times new roman;
+		font-weight:bold;
+		text-align: center;
+	}
+	a#chrome, a#opera, a#firefox, a#safari {
+		text-decoration:none;
+		color:yellow;
+	}
+	p#pie {
+		text-align:center;
+		color:white;
+	}

@@ -1,0 +1,279 @@
+/*
+* Proyecto Web final
+* MAteria: Historia
+* Grupo: 1º BL Nocturno
+* Profesor: Leonardo Guedes Marrero
+* Código y diseño: Leandro Funes
+* Mail: leorecord@hotmail.com
+* Año: 2017
+*/
+
+@import url('menu.css');
+@import url('menu2.css');
+@import url('font.css');
+@import url('index.css');
+@import url('paginas.css');
+@import url('flotante.css');
+
+* {
+  border:0px;
+  padding:0px;
+  margin:0px;
+}
+body {
+  background:#131C30;
+  //background:#000;
+  //z-index:-99;
+}
+header {
+  //display:inline-block;
+  border-bottom:5px solid rgba(157, 7, 0, 0.8);
+  //background:rgba(4, 20, 30, 0.9);
+  width:100%;
+  }
+footer {
+  padding:20px 0px;
+  //background:rgba(4, 20, 30, 0.9);
+  background:#0D1520;
+  border-top: 5px solid rgba(157, 7, 0, 0.8);
+  color:#eee;
+  font-family:"arial";
+  text-align: center;
+  bottom:0px;
+}
+.container-fluid {
+  background:#0D1520;
+}
+#cuerpo, #cuerpo2, #cuerpo3, #cuerpo4, #cuerpo5 {
+  animation:index 1s;
+}
+@keyframes index {
+  from {opacity:0;}
+  to {opacity:1;}
+}
+a {
+  text-decoration:none;
+}
+#h1 {
+  font-family:"arial";
+  color:#3b8bb0;
+}
+#cuerpo {
+  //border:1px solid red;
+  width:100%;
+  height:100%;
+  padding-top:80px;
+  padding-bottom:80px;
+}
+.contindex2 > a {
+  background-color:rgba(4, 20, 30, 0.9);
+  font-size:15px;
+  margin-top:3px;
+  margin-bottom:3px;
+  transition:0.1s outline;
+}
+.contindex2 > a:hover {
+  outline: 2px solid #fff;
+}
+#actividades {
+  //border:1px solid red;
+  text-decoration:none;
+  padding:5px;
+  color:white;
+  font-family:arial;
+  //font-size:25px;
+  display:inline-block;
+}
+#actividades:hover {
+  //color:orange;
+  text-decoration:underline;
+  text-shadow: 0px 0px 4px #000;
+}
+.carrera {
+  color: #b73634;
+}
+.espacial {
+  color:#3a88b4;
+}
+.contra {
+  color:#9d0000;
+}
+.argelia {
+  color:#255229;
+}
+
+#imgcontrols, #imgmuted {
+  width:50px;
+  border:1px solid #666;
+  border-radius:10px;
+  position:relative;
+  left:12px;
+  top:12px;
+  cursor:pointer;
+}
+.row {
+  display:flex;
+  flex-wrap: wrap;
+}
+.indice > a {
+  border:1px solid #aaa;
+  padding:40px;
+  color:#fff;
+  text-decoration:none;
+}
+.indice > a:hover {
+  color:#fff;
+}
+@media screen and (max-width:800px) {
+  body {
+    background:none;
+    background-image: url("../media/fondo_index.jpg");
+  }
+  .tema {
+    opacity:1;
+  }
+  .contindex {
+    //border:1px solid red;
+    width:100%;
+
+    margin-top:-6px;
+  }
+  .contindex > a {
+    //border:1px solid red;
+    padding-top:95px;
+    font-size:20px;
+    //text-shadow: 0px 0px 10px #000;
+    outline:none;
+  }
+  .contindex > a:hover {
+    outline:none;
+  }
+  #head {
+    //border:1px solid red;
+    width:cover;
+    height:90px;
+  }
+  #head > h2 {
+    //border:1px solid red;
+    width:100%;
+    height:50px;
+    background-size: 100% ;
+    font-size:25px;
+    top:10px;
+  }
+  .nombre {
+    //border:1px solid red;
+    bottom:20px;
+  }
+  #parrafo {
+    //border:1px solid red;
+    text-align: left;
+  }
+  #cuerpo2 {
+    width:100%;
+  }
+  #cuerpo2 > img {
+    min-width: 300px;
+  }
+  #cuerpo {
+    //border:1px solid red;
+    padding-top:20px;
+    width:100%;
+    margin:0px auto;
+  }
+  #materia {
+    border:1px solid #fff;
+    width:95%;
+    height:143px;
+    text-decoration:none;
+  }
+  #materia2 {
+    border:1px solid #fff;
+    width:95%;
+    height:50px;
+    text-decoration:none;
+  }
+  .video-background {
+    display:none;
+  }
+  #ver {
+    display:none;
+  }
+  .img2 {
+    width:60%;
+  }
+
+  #imgcontrols {
+    display:none;
+    border-radius:5px;
+    width:35px;
+    cursor:pointer;
+  }
+  #imgmuted {
+    border:none;
+    border-radius:0px;
+    left:0px;
+    top:0px;
+    border-radius:0px 0px 5px 0px;
+    width:35px;
+  }
+  #cuerpo4 {
+    width:100%;
+    height:100%;
+    padding-top:30px;
+  }
+  #objetivos {
+    //border:1px solid red;
+    width:95%;
+    margin-left:12px;
+    margin-top:5px;
+  }
+  #ventana-flotante {
+    display:inline;
+  }
+  .tema {
+    font-size:20px;
+    padding:0px;
+  }
+  .bodypags3 {
+    background-repeat: repeat;
+  }
+  .pag3 {
+    background-image:url('media/fondo_index2.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+  }
+  #sopa {
+    width:100%;
+    height:100%;
+    margin-top:8px;
+  }
+  #creditos2 {
+    left:0px;
+  }
+  #reflexiones {
+    width:92%;
+    font-size:12px;
+    margin-left:12px;
+  }
+  .fondoCred {
+    background:none;
+    width:100%;
+  }
+  #youtube {
+    display:none;
+  }
+  #vidY > iframe {
+    width:100%;
+  }
+  #vidY > div {
+    width:100%;
+    margin-top:15px;
+  }
+  .indice > a {
+    padding:40px 0px;
+  }
+  .indice > a > span {
+    filter:opacity(1);
+  }
+}

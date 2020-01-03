@@ -1,0 +1,75 @@
+/*
+* Proyecto Web final
+* MAteria: Historia
+* Grupo: 1º BL Nocturno
+* Profesor: Leonardo Guedes Marrero
+* Código y diseño: Leandro Funes
+* Mail: leorecord@hotmail.com
+* Año: 2017
+*/
+
+@keyframes sepia1 {
+		0%{filter:sepia(0%);}
+		50%{filter:sepia(100%);}
+		100%{filter:sepia(0%);}
+	}
+	#ventana-flotante {
+		display:none;
+		width:80%;
+		background:rgba(157, 7, 0, 0.8);
+		border:2px solid #fff;
+		//box-shadow:0px 0px 10px #777;
+		position: fixed;
+		margin: auto 0;
+		top:20%;
+		left:10%;
+		font-family:arial;
+		font-size: 15px;
+		animation: flot1 1.5s;
+		z-index:999;
+		font-weight: bolder;
+	}
+	@keyframes flot1 {
+		from{opacity:0;}
+		to{opacity:1;}
+	}
+	#cont1 {
+		background: rgba(4, 20, 30, 0.9);
+	}
+	#ventana-flotante #cont1 {
+		padding: 25px 10px 10px 10px;
+	}
+	.cerrar {
+		float: right;
+		color: #eee;
+		background: #d62c2c;
+		line-height: 17px;
+		text-decoration: none;
+		padding: 4px 14px;
+		font-family: Arial;
+		box-shadow: -1px 1px white;
+		font-size: 18px;
+	}
+	.contenido {
+		padding: 15px 15px 25px 15px;
+		//background: #fff947;
+		background:#eee;
+		font-size: 15px;
+		color: #555;
+	}
+	.oculto {
+		-webkit-transition:1s;
+		-moz-transition:1s;
+		-o-transition:1s;
+		-ms-transition:1s;
+		opacity:0;
+		-ms-opacity:0;
+		-moz-opacity:0;
+		visibility:hidden;
+	}
+	.pflot {
+		font-size:12px;
+	}
+	.pflot2 {
+		font-size:12px;
+	}

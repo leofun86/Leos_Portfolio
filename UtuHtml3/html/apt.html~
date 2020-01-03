@@ -1,0 +1,1872 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>1º BL - Inicio</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/madre.css">
+</head>
+<body>
+	<header>
+		<b id="logo"><a href="index.html">1º BL - MATERIAL</a></b>
+		<br>
+		<b id="menu"><a href="index.html">INICIO</a> | <a href="horarios.html">HORARIOS</a></b>
+		</ul>
+	</header>
+	<div id="cuerpo">
+		<div id="contenido">
+			<!-- ANÁLISIS Y PRODUCCIÓN DE TEXTO -->
+			<h1 id="titulo">APT</h1>
+			<hr><br>
+			<h2>+ Demilitar Unidades Coordinadas</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>Se usa para separar miembros gramaticalmente equivalentes dentro de un mismo enunciado</b>
+					<ul>
+						<li><span class="fa">Salvo que exista una conjunción: e, y, o, u.</span>
+							<ul>
+								<li>Ejemplos: Corrieron, saltaron, jugaron y gritaron toda la vida.</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<br>
+				<li><b>Sin embargo, se coloca una coma delante de la conjunción cuando</b>
+					<ol>
+						<li>La secuencia que encabeza expresa su contenido distinto al  elemento anterior.</li>
+						<li>La conjunción destinada a enlazar con toda la proposición anterior y no con el último de sus miembros.<br><br>
+							<ul>
+								<li>Ejemplo: Pagó el traje, el bolso y los zapatos, y salió de la tienda.</li>
+							</ul>
+						</li>
+					</ol>
+				</li>
+				<br>
+				<li><b>Es recomendable su uso cuando el período es especialmente largo =></b> En una relación cuyos elementos están separados por punto y coma:
+					<ul>
+						<ul>
+							<li>En el armario colocó la vajilla; En el cajón, los cubiertos; En los estantes, los vasos, y los alimentos, en la despensa.</li>
+						</ul>
+					</ul>
+				</li>
+			</ul>
+			<br><br>
+			</div>
+			<h2>+ Delimitar incisos. Delimitadas y otras estructuras</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<p><b>DEF: Un inciso es una expresión dotada de autonomía gramatical, que se intercala en otra para explicar algo relacionado con esta.</b><br><br>
+			<ul>
+				<ul>
+					<li>La mesa, <span class="fa">de madera macisa</span>, estaba colocada en el centro del salón.</li>
+					<li>Todos, <span class="fa">incluído mi hermano</span>, estaban de acuerdo.</li>
+				</ul>
+			</ul></p><br>
+			<p><b>INTERSECCIONES: Palabras con las que construímos enunciados exclamativos o interrogativos</b><br><br>
+			<ul>
+				<ul>
+					<li>Hola <span class="fa">¿Como estás?</span></li>
+				</ul>
+			</ul><br>
+			<b>VOCATIVOS: Son las invocaciones</b><br><br>
+			<ul>
+				<ul>
+					<li>Juan, <span class="fa">vení.</span></li>
+				</ul>
+			</ul><br>
+			<b>APÉNDICES CONFIRMATIVOS: <a href="http://udep.edu.pe/castellanoactual/que-es-un-apendice-confirmativo/" target="_blank">enlace externo</a></b><br><br>
+			<ul>
+				<ul>
+					<li>Te parece <span class="fa">¿No?</span></li>
+				</ul>
+			</ul></p>
+			<br>	
+			</div>
+			<h2>+ Delimitar conectores en un enuncado</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ol>
+				<li><b>Cuando el complemento es muy largo:</b>
+					<ul>
+						<li>En aquellos calurosos días del verano pasado, la convivencia era idílica.</li>
+					</ul>
+				</li>
+				<br>
+				<li><b>Cuando el complemento es muy corto:</b>
+					<ul>
+						<li>Francamente, no creo que vuelva.</li>
+					</ul>
+				</li>							
+			</ol><br>
+			</div>
+			<h2>+ Marcar elisiones verbales</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<p><b><a href="http://parles.upf.edu/llocs/cr/casacd/coma3cs.htm" target="_blank">DEF: enlace externo</a></b>
+			<ul>
+				<ul>
+					<li>Los que no tengan invitación, por aquella puerta</li>
+				</ul>
+			</ul>
+			</p>
+			<br>
+			</div>
+			<h3 id="tab1">+ Sustantivo</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<p><b>DEF: Clase de palabra que se usa para designar entidades, es decir, objetos, animales, personas, sentimientos, etc. Ya sean reales o imaginarios, físicas o conceptuales.</b>
+			<br><br>
+			<b>CLASIFICACIÓN:</b>
+			<ul>
+				<ul>
+					<li><b>Comunes:</b> Primo, Bicicleta, Amistad (Llevan mayúscula).</li>
+					<li><b>Individuales:</b> Entrenador, Calle, Pez.</li>
+					<li><b>Colectivos:</b> Gremio, Enjambre.</li>
+					<li><b>Concretos:</b> Sofá, Pastel, Colonia.</li>
+					<li><b>Abstractos:</b> Gentileza, Alegría.</li>
+					<li><b>Contables:</b> Pulsera, Árbol.</li>
+					<li><b>No contables:</b> Arena, Gas, Agua.</li>
+				</ul>
+			</ul>
+			</p>
+			<br><br>
+			</div>
+			<h3 id="tab1">+ Adjetivo</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<p><b>DEF: Palabra que modifica al sustantivo. Destaca una propiedad de lo expresado por el sustantivo o limita la extensión de su significado.</b></p>
+			<br><br>
+			</div>
+			<h3 id="tab1">+ Grados</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<p><b>POSITIVO:</b>
+			<ul>				
+				<li>Luz crepuscular
+					<ul>
+						<li>Luna llena</li>
+						<li>Mesa de madera</li>
+					</ul>
+				</li>
+			</ul>
+			<br>
+			<b>COMPARATIVO:</b>
+			<ul>
+				<li>Inferioridad
+					<ul>
+						<li>Mis vecinos actuales son <span class="fa">menos</span> ruidosos que los anteriores.</li>
+					</ul>
+				</li>
+				<br>
+				<li>Igualdad
+					<ul>
+						<li>Yo soy <span class="fa">tan</span> ordenado como mi hermano</li>
+					</ul>
+				</li>
+				<br>
+				<li>Superioridad
+					<ul>
+						<li>Quedó <span class="fa">más</span> ancho que largo</li>
+					</ul>
+				</li>
+			</ul>
+			<br>
+			</div>
+			<h3 id="tab1">+ Superlativo relativo</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<ol>
+				<li><b>DE GRADO SUMO:</b>
+					<ul>
+						<li>La pared es la más blanca de todas</li>
+					</ul>
+				</li>
+				<br>
+				<li><b>DE GRADO ÍNFIMO:</b>
+					<ul>
+						<li>La pared es la menos blanca de todas</li>
+					</ul>
+				</li>
+			</ol>
+			<br>
+			</div>
+			<h3 id="tab1">+ Superlativo</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>MAYOR INTENSIDAD DE UNA CUALIDAD O ESTADO:</b>
+					<ul>
+						<li>Muy bello, sumamente bello, bellísimo.</li>
+					</ul>
+				</li>
+				<br>
+				<li><b>SUFIJOS:</b>
+					<ul>
+						<li><span class="fa">Ísimo</span> (Ej: Buenísimo), <span class="fa">Érrimo</span> (Ej: Paupérrimo)</li>
+					</ul>
+				</li>
+				<br>
+				<li><b>PREFIJOS:</b>
+					<ul>
+						<li>Super, Extra.</li>
+					</ul>
+				</li>
+			</ul>
+			<br>
+			</div>
+			<h3 id="tab1">+ Verbo</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<p><b>DEF: Núcleo del sintagma verbal que expresa una acción, sentimiento o proceso.</b></p>
+			<ul>
+				<li>3 conjugaciones:
+					<ul>
+						<li><span class="fa">AR</span>=> Cantar</li>
+						<li><span class="fa">ER</span> => Comer</li>
+						<li><span class="fa">IR</span> => Salir</li>
+					</ul>
+				</li>
+			</ul>
+			<br>
+			</div>
+			<h3 id="tab1">+ Modos</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>INDICATIVO</b>
+					<ul>
+						<li>Objetividad
+							<ul>
+								<li>Oraciones declarativas
+									<ul>
+										<li><span class="fa">Javier y Alicia bailan un Tango.</span></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><b>SUBJUNTIVO</b>
+					<ul>
+						<li>Deseos, posibilidades, necesidades
+							<ul>
+								<li>Oraciones desiderativas
+									<ul>
+										<li><span class="fa">Ojala Javier y Alicia bailen un Tango.</span></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><b>IMPERATIVO</b>
+					<ul>
+						<li>Mandatos
+							<ul>
+								<li>Oraciones directivas
+									<ul>
+										<li><span class="fa">Bailá un Tango con Javier y Alicia (Alicia = Invocativo).</span></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<br>
+			</div>
+			<h3 id="tab1">+ Tiempos</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<ol>
+				<b>
+				<li>PRETÉRITO (pasado)</li>
+				<li>PRESENTE</li>
+				<li>FUTURO</li>
+				</b>
+			</ol>
+			<br>
+			<ul>
+				<ul>
+					<li><b>Tiempos perfectos: </b>Acciones acabadas</li>
+					<li><b>Tiempos imperfectos: </b>Acciones con duración</li>
+				</ul>
+			</ul>
+			<br>
+			</div>
+			<h3 id="tab1">+ Personas</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>1<sup>era</sup> =></b> <span class="fa">yo</span></li>
+				<li><b>2<sup>da</sup> =></b> <span class="fa">tú</span></li>
+				<li><b>3<sup>era</sup> =></b> <span class="fa">él/ella</span></li>
+			</ul>
+			<br>
+			<ul>
+				<li><b>NÚMERO</b>
+					<ul>
+						<ul>
+							<li>Singular</li>
+							<li>Plural</li>
+						</ul>
+					</ul>
+				</li>
+			</ul>
+			<br>
+			</div>
+			<h3 id="tab1">+ TEXTOS: generos</h3>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>NARRATIVO => </b>Prosa</li>
+				<li><b>LÍRICO => </b>Poesía</li>
+				<li><b>DRAMÁTICO => </b>Teatro</li>
+			</ul>
+			<br>
+			</div>
+			<h2 class="verde1">+ enlaces externos</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><a href="http://www.rae.es/" target="_blank">RAE</a></li>
+					<li><a href="http://www.fundeu.es/" target="_blank">Fundeu</a></li>
+					<li><a href="http://www.cervantes.es/" target="_blank">Instituto Cervantes</a></li>					
+				</ul>
+			<br>
+			</div>
+			<br>
+			<!-- INTRODUCCIÓN A LA INFORMÁTICA -->
+			<h1 id="titulo">INTRO</h1>
+			<hr><br>
+			<h2>+ Alan Turing</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li>Gracias a él la Segunda Guerra Mundial se acortó entre 4 y 6 años</li>
+				<li>Test de Tuting (AI = Inteligencia Artificial)</li>
+				<li>Procesado en 1952 por ser Homosexual</li>
+				<li>Fué matemático, lógico y criptógrafo</li>
+				<li>Participe de la estandarización de algoritmos</li>
+				<li>Le gustaba la simbología y no prestaba atención al programa educativo de los colegios</li>			
+				<br>			
+				<li><span class="fa">más info</span>
+					<ul>
+						<ul>
+							<li><a href="https://es.wikipedia.org/wiki/Alan_Turing" target="_blank">Wikipedia</a></li>
+							<li><a href="http://www.losreplicantes.com/articulos/the-imitation-game-verdades-y-mentiras-alan-turing/" target="_blank">9 verdades y mentiras de A.Turing</a></li>
+							<li><a href="http://elmeme.me/calmensenpliz/6-errores-imperdonables-que-cometieron-en-codigo-enigma-the-imitation-game_80515" target="_blank">6 errores imperdonables en "Código Enigma"</a></li>
+						</ul>
+					</ul>
+				</li>
+			</ul>	
+			<br>
+			</div>
+			<h2>+ Conjuntos I</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>Los conjuntos se nombran en mayúsculas => </b> <span class="fa">A, B, C</span></li>
+				<li><b>Los ementos se nombran en minúsculas => </b> <span class="fa">a, b, c</span></li>
+				<br>
+				<li><b>FORMAS DE DEFINIR CONJUNTOS</b>
+					<br><br>
+					<ul>
+						<li><b>Extensiva</b>
+							<ul>
+								<li>Nombrar todos los elementos del conjunto</li>
+							</ul>
+						</li>
+						<li><b>Comprensión</b>
+							<ul>
+								<li>Nombrar la/s propiedades</li>
+							</ul>
+						</li>		
+					</ul>
+				</li>
+				<br>
+				<li><b>EJEMPLOS</b>
+					<ol>
+						<li>A = {Ana, Juan, Daniel...}</li>
+						<li>A = {<sup>x</sup>/<sub>x</sub> ∈ 1ºBL} ==> <span class="fa">X tal que X pertenece a 1º BL</span></li>
+						<li>X = {1, 2, 3, 4}</li>
+						<li>X = (<sup>x</sup>/<sub>x</sub> ℕ y 1 < x < 4)</li>
+					</ol>
+				</li>		
+			</ul>
+			<br><br>
+			</div>
+			<h2>+ CONJUNTOS II</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>DIAGRAMA DE VENN EULER</b></li>
+				<img src="media/vennEuler.jpg" />
+				<br>
+				<li><b>CONJUNTOS</b></li>
+				<img src="media/universo.jpg" />
+				<br><br>
+			</ul>
+			</div>
+			<h2>+ CONJUNTOS III</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li>U = {es el cont.ℕ}</li>
+				<li>A = {<sup>x</sup>/<sub>x</sub> 1 < x < 5}</li>
+				<li>A = {2, 3, 4}</li>
+				<br>
+				<li>B = {<sup>1</sup>/<sub>2</sub> , 2, 4, 5, 8} ==> <span class="fa">B</span> no es un grupo con elementos pertenecientes a <span class="fa">A</span></li>
+			</ul>
+			<br>
+			</div>
+			<h2>+ CONJUNTO VACÍO I</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li>Conjunto vacío = Ø</li>
+				<img src="media/conjuntoVacio.jpg" />
+			</ul>
+			</div>
+			<h2>+ CONJUNTO VACÍO II</h2>
+			<div id="tab1" class="plegable">
+			<ul>
+				<img src="media/conjuntoVacio2.jpg">
+				<li>X = {Ø} ==> Es un conjunto que dentro tienen un conjunto vacío</li>
+			</ul>
+			<br>
+			</div>
+			<h2>+ CONCEPTOS DE CONJUNTOS I</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>PERTENENCIA</b>
+					<ul>
+						<li>Los elementos pertenecen a sus conjuntos
+							<ul>
+								<li>Elementos ∈ Conjuntos</li>
+								<img src="media/pertenencia.jpg" />
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><b>INCLUSIÓN</b>
+					<ul>
+						<li>Los conjuntos están incluídos en otro conjunto
+							<ul>
+								<li>Conjuntos ⊂/⊄ (<span class="fa">inluído y no incluído</span>) Conjunto</li>
+								<img src="media/inclusion.jpg" />
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			</div>
+			<h2>+ CONCEPTOS DE CONJUNTOS II</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li>A = {1, 2, 3}</li>
+				<li>B = {1, 2}</li>
+				<li>C = {5, 6}</li>
+				<img src="media/concepto2.jpg" />
+			</ul>
+			<br>
+			</div>
+			<br>
+			<!-- LÓGICA -->
+			<h1>LÓGICA</h1>
+			<hr><br>
+			<H2>+ Abstraccion</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li><b>NO ES LA COSA EN SÍ</b>
+						<ul>
+							<ul>
+								<li>Es la representación ==> <span class="fa">No está en un plano real</span>
+									<ul>
+										<li>Ejemplos: Agua, Casa, 3</li>
+									</ul>
+								</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>EJEMPLO ==> Pedido de un cliente</b>
+						<ul>
+							<li>Se hace una selección:
+								<ul>
+									<li>Se aceptan partes del pedido</li>
+									<li>Se dejan de lado partes del pedido</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<img src="media/mesa.jpg" />
+				</ul>
+			</div>
+			<h2>+ Proposiciones I</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li><b>Es una oración/proposición que puede ser falsa o verdadera</b></li>
+					<br>
+					<li><b>UNA PROPOSICIÓN CONSTA DE:</b>
+						<ul>
+							<ul>
+								<li>Oración</li>
+								<li>Falso o Verdadero (<span class="fa">true</span> or <span class="fa">false</span>)</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+				</ul>
+				<br>
+			</div>
+			<h2>+ Proposiciones II</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li><b>LO QUE SON PROPOSICIONES</b>
+						<ul>
+							<ul>
+								<li>Hoy hace frío ==> <span style="background:green;color:white;padding:0px 4px;">Oración + F o V</span></li>
+								<li>Uruguay ganó frente a Brasil ==> <span style="background:green;color:white;padding:0px 4px;">Oración + F o V</span></li>
+								<li>El perro es verde ==> <span style="background:green;color:white;padding:0px 4px;">Oración + F o V</span></li>
+								<li>2+3 = 8 ==> <span style="background:green;color:white;padding:0px 4px;">Oración + F o V</span></li>
+								<li>1 + 1 = 1 ==> <span style="background:green;color:white;padding:0px 4px;">Oración + F o V</span></li>
+								<li>2x + 1 = 1 (<span class="fa">proposición abierta</span>) ==> <span style="background:green;color:white;padding:0px 4px;">Oración + F o V</span></li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>LO QUE NO SON PROPOSICIONES</b>
+						<ul>
+							<ul>
+								<li>Uruguay va a ganar ==> <span style="background:green;color:white;padding:0px 4px;">Oración + </span><span style="background:red;color:white;padding:0px 4px;">F o V</span></li>
+								<li>Ojalá llueva ==> <span style="background:green;color:white;padding:0px 4px;">Oración + </span><span style="background:red;color:white;padding:0px 4px;">F o V</span></li>
+								<li>Seguramente ganemos ==> <span style="background:green;color:white;padding:0px 4px;">Oración + </span><span style="background:red;color:white;padding:0px 4px;">F o V</span></li>
+								<br>
+							</ul>
+							<li class="lsn"><b>PREGUNTAS:</b>
+								<ul>
+									<li>Son las 17 hs?
+										<ul>
+											<li><span style="background:green;color:white;padding:0px 4px;">Oración + </span><span style="background:red;color:white;padding:0px 4px;">F o V</span>
+												<ul>
+													<li>Porque requiere una respuesta (de haberla, <span class="fa">SI</span> cumpliría <span class="fa">V</span> o <span class="fa">F</span>)</li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li class="lsn"><b>SALUDOS:</b>
+								<ul>
+									<li>Hasta mañana
+										<ul>
+											<li><span style="background:green;color:white;padding:0px 4px;">Oración + </span><span style="background:red;color:white;padding:0px 4px;">nada más</span></li>
+										</ul>
+									</li>
+									<li>Buen día!
+										<ul>
+											<li><span style="background:green;color:white;padding:0px 4px;">Oración + </span><span style="background:red;color:white;padding:0px 4px;">nada más</span></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<br><hr><br>
+					<li><b>¡Las "Órdenes" y "Pedidos" no son proposiciones!</b></li>
+					<li><b>¡Las "Órdenes sin sentido" tampoco son proposiciones!</b></li>
+					<br>
+					<li class="lsn"><b>ENTONCES:</b>
+						<ul>
+							<li>Reconocer si cumple como proposición</li>
+							<li>Proponerse ==> Este valor (<span class="fa">oración/proposición</span>) es <span class="fa">verdadero</span> o <span class="fa">falso</span></li>
+						</ul>
+					</li>
+				</ul>
+				<br>
+				<br>
+			</div>
+			<h2>+ Proposiciones III</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li class="lsn"><b>TIPOS DE PROPOSICIONES</b>
+						<br><br>
+						<ul>
+							<li><b>ATÓMICAS</b>
+								<ul>
+									<li>Afirmativa
+										<ul>
+											<li>Ej: Hoy es martes</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<br>
+							<li><b>MOLECULARES</b>
+								<ul>
+									<li>Una o más proposiciones atómicas afectadas por un nexo
+										<ul>
+											<li>Ej: Hoy es martes <span style="background:#28fb22;">y</span> mañana voy al cine.</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<br>
+							<li class="lsn"><b>COMO NOMBRARLAS:</b></li>
+							<img src="media/proposicion1.jpg" />
+						</ul>
+					</li>
+				</ul>
+				<br>
+			</div>
+			<h2>+ Proposiciones IV</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li><b>RAZONAMIENTO: </b>Es pasar de un grupo de proposiciones a otro, de lo conocido a lo desconocido.</b>
+						<ul>		
+							<ul>
+								<br>
+								<li>PREMISAS ==> CONCLUSIÓN ==> De las <span class="fa">premisas</span> a la <span class="fa">conclusión</span></li>
+							</ul>
+						</ul>
+					</li>
+					<li><b>SINTAXIS: </b>Es la parte del lenguaje que estudia la <span class="fa">forma</span> en que se relacionan los símbolos.</li>
+					<br>
+					<li><b>SEMÁNTICA: </b>Es el <span class="fa">significado</span> de los símbolos.</li>
+					<br>
+					<li><b>LENGUAJE NATURAL: </b>Es el lenguaje usado para la comunicación.
+						<ul>
+							<ul>
+								<br>
+								<li>Metáforas</li>
+								<li>Ambiguo</li>
+								<li>Impreciso</li>
+								<li>Flexible</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>LENGUAJE FORMAL: </b>Es el lenguaje de las ciencias.
+						<ul>
+							<ul>
+								<br>
+								<li>Ej: H<sub>2</sub>O ==> Representa el agua.
+									<ul>
+										<br>
+										<li>No admite metáforas.</li>
+										<li>No es flexible.</li>
+										<li>Es preciso.</li>
+									</ul>
+								</li>
+							</ul>
+						</ul>
+					</li>
+				</ul>
+				<br>
+			</div>
+			<br>
+			<!-- INGLÉS -->
+			<h1 id="titulo">INGLÉS</h1>
+			<hr><br>
+			<h2>+ FIRST CLASS I</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li><b>QUESTION WORDS</b>
+						<ul>
+							<li>What => Qué/Cual</li>
+							<li>Where => Dónde</li>
+							<li>How old => Cuántos años</li>
+							<li>Whitch => Cuál</li>
+							<li>When => Cuando</li>
+							<li>Who => Quién</li>
+							<li>Why => Porqué</li>
+							<li>How many => Cuantos</li>
+							<li>How much => Cuanto</li>
+						</ul>
+					</li>
+					<br>
+					<hr>
+					<br>
+					<li><b>POSSESIVE ADJETIVES</b>
+						<ul>
+							<li>His => Su => Él</li>
+							<li>Her => Su => Ella</li>
+							<li>Its => Su => Cosa</li>
+							<li>Our => Nuestro</li>
+							<li>Their => Sus</li>
+							<li>Your => Tu/Tus/Sus</li>
+							<li>My => Mi</li>
+						</ul>
+					</li>
+					<br>
+					<hr>
+					<br>
+					<li><b>PRONOUNS</b>
+						<ul>
+							<li>I => Yo</li>
+							<li>She => Ella</li>
+							<li>He => Él</li>
+							<li>It => Eso</li>
+							<li>They => Ellos</li>
+							<li>We => Nosotros</li>
+							<li>You => Tu/Ustedes</li>
+						</ul>
+					</li>
+				<br>
+				</ul>
+				<br>
+			</div>
+			<h2>+ FIRST CLASS II</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+				<li><b>Five questions about general information</b>
+					<br>
+					<ol>
+						<li>What is your name? ==> <span class="fa">y name is __________</span></li>
+						<li>What is your favourite coulor? ==> <span class="fa">My favourite cculor is __________</span></li>
+						<li>Where do you live? ==> <span class="fa">I live in __________</span></li>
+						<li>Where are you from? ==> <span class="fa">I am from __________</span></li>
+						<li>How old are you? ==> <span class="fa">I am ___ years old</span></li>
+					</ol>
+				</li>
+				<br>
+				<li><b>Two questions about ==> Present</b>
+					<br>
+					<ol>
+						<li>What are you doing in this U.T.U?</li>
+						<li>Whitch subject do you like?</li>
+					</ol>
+				</li>
+				<br>
+				<li><b>Two questions about ==> Past</b>
+					<br>
+					<ol>
+						<li>Where were you last night?</li>
+						<li>Dido you go to school yesterday?</li>
+					</ol>
+				</li>
+				<br>
+				<li><b>Two questions about ==> Future</b>
+					<br>
+					<ol>
+						<li>Are you going to do the homework?</li>
+						<li>What will you do after school?</li>
+					</ol>
+				</li>
+				</ul>
+				<br>
+			</div>
+			<h2>+ QUESTIONS IN PAST and PRESENT</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li><b>PRESENT</b>
+						<ul>
+							<ul>
+								<li><b>Does + (<span class="fa">he, she, it</span>) + Verb infinitive</b></li>
+								<li><b>Do + (<span class="fa">they, we, you, i</span>) + Verb infinitive</b>
+									<br><br>
+									<ul>
+										<li>Does he have a small family? ==> <span class="fa">Yes, he does</span></li>
+										<li>Is Carlos Fernandez Uruguayan? ==> <span class="fa">Yes, he is</span></li>
+										<li>Does he live abroad? ==> <span class="fa">Yes, he does</span></li>
+										<li>Does he live with his wife? ==> <span class="fa">Yes, he does</span></li>
+										<li>What does he do for his living? ==> <span class="fa">Carlos works in I.T company</span></li>
+									</ul>
+								</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>PAST</b>
+						<ul>
+							<ul>
+								<li><b>Did + (<span class="fa">he, she, it, they, we, you, i</span>) + Verb infinitive</b>
+									<br><br>
+									<ul>
+										<li>Did they eat at an expensive restaurant? ==> <span class="fa">Yes, they did</span></li>
+										<li>Did Carlos Fernandez and his family go to an expensive restaurant yesterday? ==> <span class="fa">Yes, they did</span></li>
+										<li>Did they get up in the morgning? ==> <span class="fa">Yes, they did</span></li>
+									</ul>
+								</li>
+							</ul>
+						</ul>
+					</li>
+				</ul>
+				<br>
+			</div>
+			<h2>+ PRESENT CONTINOUS</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li><b>PRESENT CONTINOUS:</b> Actions happening at the moment now.
+						<br>
+						<ul>
+							<br>
+							<ul>
+								<li><b>{<span class="fa">HE, SHE, IT</span>} + <span class="fa">IS</span> + <span class="fa">VERB</span> + <span class="fa">ING</span></b>
+									<br><br>
+									<ul>
+										<li>Iglesias is <span class="fa">brinking</span></li>
+										<li>Clemente us <span class="fa">writing</span>, he isn´t <span class="fa">drinking</span></li>
+										<li>The students are <span class="fa">copying</span> now</li>
+									</ul>
+								</li>
+							</ul>
+						</ul>
+					</li>
+				</ul>
+				<br>
+			</div>
+			<h2 class="verde1">+ enlaces externos</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><a href="http://www.profesordeingles.eu/verbos-irregulares-en-ingles/lista-verbos-irregulares-en-ingles.php" target="_blank"><span class="fa">verbos irregulares</span></a></li>
+					<li><a href="http://www.curso-ingles.com" target="_blank">curso-ingles</a></li>
+					<li><a href="https://es.duolingo.com/course/en/es/aprende-ingl%C3%A9s-en-l%C3%ADnea" target="_blank">duolingo</a></li>					
+				</ul>
+			<br>
+			</div>
+			<br>
+			<!-- SISTEMA OPERATIVO -->
+			<h1 id="titulo">SIST. OPERATIVO</h1>
+			<hr><br>
+			<h2>+ MATERIAL DESCARGABLE</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li><a href="https://mega.nz/#!g98CXY7S!5RVfGSvcA0C2jJqM8PmquNTLFiW7n_jvPP_D-aRUymM" target="_blank">Descargar material completo</a></li>
+					<br>
+					<img src="media/s.o.1.jpg" />
+				</ul>
+			</div>
+			<br>
+			<!-- GEOMETRÍA -->
+			<h1 id="titulo">GEOMETRÍA</h1>
+			<hr><br>
+			<h2>+ PRIMER CLASE</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li><b>PUNTOS</b>
+						<ul>
+							<li>Mayúsculas imprenta ==> A, B, C...</li>
+						</ul>
+					</li>
+				</ul>
+				<br>
+				<ul>
+					<li><b>ESPACIO</b>
+						<ul>
+							<li>E</li>
+						</ul>
+					</li>
+				</ul>	
+				<br>
+				<ul>
+					<li><b>LOS PLANOS TIENEN NOTACIÓN</b>
+						<ul>
+							<li>α, β; γ; φ</li>
+						</ul>
+					</li>
+				</ul>	
+				<br>
+				<ul>
+					<li><b>RECTAS</b>
+						<ul>
+							<li>Minúscula ==> a, b, c...</li>
+						</ul>
+					</li>
+				</ul>	
+				<br>
+				<ul>
+					<li><b>PERTENECE // NO PERTENECE</b>
+						<ul>
+							<li>Є // ∉</li>
+						</ul>
+					</li>
+				</ul>	
+				<br>
+				<img style="width:98%;" src="media/1clase.jpg" />
+				<br>
+				<ul>
+					<li><b>RECTA</b>
+						<ul>
+							<ul>
+								<li>Es el conjunto de puntos alineados</li>
+								<li class="lsn"><span style="color:red;">>> por un punto pueden pasar infinitas rectas.</span></li>
+								<li class="lsn"><span style="color:red;">>> dos puntos determinan una recta.</span></li>
+							</ul>
+						</ul>
+					</li>
+				</ul>
+				<br>
+				<hr>
+				<br>
+				<ul>
+					<li><b>POSICIÓN RELATIVA ENTRE RECTAS</b></li>
+					<img src="media/posrel1.jpg" />
+				</ul>
+				<br>
+				<ul>
+					<ul>
+						<li>SECTANTES ==> Tienen un punto en común</li>
+						<li>PARALELAS ==> r ∥s ; r ∩ s = Ø</li>
+						<li>COINCIDENTES ==> r ≡(<span class="fa">coincidentes</span>) s ; r ∩ s = infinitos puntos</li>
+					</ul>
+				</ul>
+			</div>
+			<h2>+ Simbolos</h2>
+			<div id="98%" class="plegable">
+			<br>
+			<img style="width:900px" src="media/simbolosGeom.jpg" >
+			<br><br>
+			</div>
+			<h2>+ Semirectas, angulos y triangulos</h2>
+			<div id="tab1" class="plegable">
+				<br>
+				<ul>
+					<li class="lsn"><b>SEMIRECTA</b></li>
+					<br>
+					<li><img style="width:3%;" src="media/semAb.gif" /> => Semirecta => Comienza por A y termina por B</li>
+					<br>
+					<img src="media/sem1.jpg" />
+					<br><br>
+					<hr>
+					<br>
+					<li class="lsn"><b>ÁNGULOS</b></li>
+						<img src="media/angulo1.jpg" />
+						<ul>
+							<li>O = Vértice del ángulo</li>
+							<li>Lados = Semirectas</li>
+							<li>Ô = Ángulo del vértice O</li>
+						</ul>
+					</li>
+					<br><br>
+					<li class="lsn"><b>CLASIFICACIÓN DE ÁNGULOS</b></li>
+					<img src="media/angulo2.jpg" />
+					<li>RECTO ==> mide 90º</li>
+					<li>AGUDO ==> mide menos de 90º</li>
+					<li>OBTUSO ==> mide más de 90º</li>
+					<li>LLANO ==> mide 180º</li>
+					<br>
+					<li><span class="fa">Tres puntos están alineados si el ángulo que forma es un ángulo llano</span></li>
+					<br>
+					<hr>
+					<br>
+					<li class="lsn"><b>RECTAS PERPENDICULARES</b></li>
+					<img src="media/perpendicular.jpg" />
+					<br>
+					<li>j ┴ m</li>
+					<br>
+					<hr>
+					<br>
+					<li class="lsn"><b>TRIÁNGULOS</b>
+						<ul>
+							<li>Intersección de tres semiplanos generados por tres rectas</li>
+						</ul>
+					</li>
+					<img style="width:70%" src="media/triangulo1.jpg" />
+					<li>Vértices: A, B, C ==> <img src="media/vertABC.jpg" /></li>
+				</ul>
+				<br>
+			</div>
+			<h2>+ MEDIATRIZ</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>Mediatriz del segmento<img src="media/semAb.gif" /> es el lugar geométrico de los puntos del plano que equidistan de los puntos fijos A y B (extremos del segmento)</b></li>
+				<img src="media/mediatriz1.jpg" />
+				<br>
+				<li class="lsn"><b>CARACTERÍSTICAS</b>
+					<ol>
+						<br>
+						<li>Es una recta</li>
+						<li>Perpendicular al segmento</li>
+						<li>Pasa por el punto medio del segmento</li>
+					</ol>
+				</li>
+			</ul>
+			<br><br>
+			</div>
+			<h2>+ CLASIFICACION DE TRIANGULOS</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li class="lsn"><b>LADOS</b>
+						<ul>
+							<ul>
+								<li><b>Equilátero:</b> 3 lados iguales</li>
+								<li><b>Isóseles:</b> 2 lados iguales</li>
+								<li><b>Escaleno:</b> 3 lados distintos</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li class="lsn"><b>ÁNGULOS</b>
+						<ul>
+							<ul>
+								<li><b>Rectángulo:</b> 1 ángulo recto</li>
+								<li><b>Acutángulo:</b> 3 ángulos agudos</li>
+								<li><b>Obtusángulo:</b> 1 ángulo obtuso</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><span class="fa">La suma de los tres ángulos interiores de un triángulo es 180º (llano)</span></li>
+					<li><span class="fa">A mayor lado, se opone mayor ángulo; consecuencia de esto, a lados iguales, se oponen ángulos iguales</span></li>
+				</ul>
+			<br>
+			</div>
+			<h2 class="verde1">+ enlaces externos</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><a href="https://sites.google.com/site/nocionesgeometricas/" target="_blank">Nociones de Geometría</a></li>
+					<li><a href="http://lalupa3.webcindario.com/matematicas/simbolos%20matematicos.htm" target="_blank">Símbolos matemáticos</a></li>				
+				</ul>
+			<br>
+			</div>
+			<br>
+			<!-- FÍSICA -->
+			<h1 id="titulo">FÍSICA</h1>
+			<hr><br>
+			<h2>+ FUERZA</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li class="lsn"><b>DEF:</b> Interacción entre dos o más cuerpos, capaz de deformar o modificar el estado de movimiento de uno de ellos.</li>
+					<br>
+					<li class="lsn"><b>TIPOS DE FUERZA</b>
+						<ul>
+							<ul>
+								<li>Peso</li>
+								<li>Normal</li>
+								<li>Elástica</li>
+								<li>Tensión</li>
+								<li>Neta</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li class="lsn"><b>SUMA VECTORIAL</b>
+						<ul>
+							<ul>
+								<li>Teroría del coseno ==> C = √ A<sup>2</sup> + B<sup>2</sup> + 2 x A x B x cos α</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li class="lsn"><b>SUMA VECTORIAL:</b> Tres posibles situaciones
+							<br><br>
+							<ol>
+								<b><li>Vectores con igual dirección</li>
+								<img src="media/fisica/sumFuerza1.png">
+								<li>Vectores con igual dirección y sentido contrario</li>
+								<img src="media/fisica/sumFuerza2.png">
+								<li>Vectores con distinta dirección</li></b>
+								<img src="media/fisica/sumFuerza3.png">
+							</ol>
+					</li>
+				</ul>
+			<br>
+			</div>
+			<h2>+ FUERZAS IMPORTANTES</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<table id="tfuerzas">
+					<tr>
+						<th class="fn">FUERZA</th>
+						<th class="fn">CUERPO QUE LA REALIZA</th>
+						<th class="fn">DIRECCIÓN Y SENTIDO</th>
+						<th class="fn">MÓDULO</th>
+					</tr>
+					<tr>
+						<th class="fv">PESO</th>
+						<th>Planeta Tierra</th>
+						<th>Vertical hacia abajo</th>
+						<th><span class="curs">g</span> = Aceleración de la gravedad<br><span class="curs">g</span> = 10 m/s<sup>2</sup><br>PESO = <span class="curs">m x g</span></th>
+					</tr>
+					<tr>
+						<th class="fv">NORMAL</th>
+						<th>Superficie de apoyo</th>
+						<th>Perpendicular a la superficie hacia arriba</th>
+						<th>Se deben tener en cuenta las leyes de Newton</th>
+					</tr>
+					<tr>
+						<th class="fv">ROZAMIENTO</th>
+						<th>Cuerpo en contacto con otro cuerpo</th>
+						<th>Contraria al movimiento aparente</th>
+						<th>M => Coheficiente de coramiento<br>
+							<ul>
+								<li>Siempre es positivo</li>
+								<li>Está entre 0 y 1</li>
+								<li>0 < M < 1 // F<sub>r</sub> = M x N</li>
+							</ul>
+						</th>
+					</tr>
+					<tr>
+						<th class="fv">ELÁSTICA</th>
+						<th>Cualquier cuerpo elástico deformado (resorte)</th>
+						<th>Dirección => La del resorte</th>
+						<th>K = Constante elástica<br>
+							<ul>
+								<li>△<span class="curs">l</span>
+									<ul>
+										<li>Delta ele => Deformacion
+											<ul>
+												<li>F<sub>e</sub> = K x △<span class="curs">l</span></li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</th>
+					</tr>
+				</table>
+			<br>
+			<br>
+			<br>
+			</div>
+			<h2>+ Primer ley de newton</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<p><b>Si un cuerpo se encuentra en equilibrio (Fuerza = 0<sub>n</sub>) permanecerá en reposo o con movimiento en línea recta con velocidad constante (M.R.V)</b></p>
+			<br>
+			<br>
+			</div>
+			<h2 class="verde1">+ enlaces externos</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><a href="https://es.wikipedia.org/wiki/Fuerza" target="_blank">Fuerza</a></li>
+					<li><a href="https://www.fisicalab.com/apartado/suma-fuerzas#contenidos" target="_blank">Suma de fuerzas</a></li>			
+				</ul>
+			<br>
+			</div>
+			<br>
+			<!-- ELECTRICIDAD -->
+			<h1 id="titulo">ELECTRICIDAD</h1>
+			<hr><br>
+			<h2>+ Electricidad y atomo</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<img src="media/electricidad/elec1.jpg">
+			<br>
+			<hr>
+			<br>
+			<img src="media/electricidad/atomo1.jpg">
+			<ul>
+				<li><b>Un material conductor tiene electrones</b>
+					<ul>
+						<ul>
+							<br>
+							<li>Metal</li>
+							<li>Madera ==> Quemada ==> Carbón</li>
+						</ul>
+						<br>
+						<li>Cargas distintas ==> Se atraen</li>
+						<li>Cargas iguales ==> Se repelen</li>
+					</ul>
+				</li>
+				<br>
+				<li><b>Materiales metálicos son conductores de la corriente eléctrica</b>
+					<ul>
+						<br>
+						<li>Tienen electrones libres</li>
+					</ul>
+				</li>
+				<br>
+				<li><b>MATERIA:</b> Es la menor parte en que se puede dividir un material</li>
+				<br>
+				<li><b>MOLÉCULA:</b> Es la ínfima parte en la que puede dividirse un material</li>
+				<br>
+			</ul>
+			<br>
+			</div>
+			<h2>+ Ley de Coulomb</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<img src="media/electricidad/coulomb.jpg">
+			<br>
+			</div>
+			<h2>+ MAGNITUDES ELECTRICAS</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>Corriente eléctrica:</b> Flujo de electrones libres</li>
+				<li><b>Intensidad de corriente eléctrica:</b> Flujo de electrones libres en el tiempo de 1 segundo</li>
+				<li><b>Tensión, Voltage o diferencia de potencial:</b> Fuerza que hace mover a los electrones denominada comunmente <span class="fa">presión eléctrica</span></li>
+				<li><b>Resistencia eléctrica:</b> Oposición a la circulación de los electrones</li>
+			</ul>
+			<br>
+			</div>
+			<h2>+ UNIDADES</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li>Intensidad de corriente ==> amper (A)</li>
+				<li>Tensión ==> voltio (V)</li>
+				<li>Resistencia ==> OHM (Ω)</li>
+			</ul>
+			<br>
+			</div>
+			<h2>+ Energia</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<ul>
+				<li><b>TIPOS DE ENERGÍA</b>
+					<ul>
+						<ul>
+							<br>
+							<li><b>Hidráulica:</b> Por medio del agua, esta hace mover turbinas que generan energía eléctrica.</li>
+							<li><b>Eólica:</b> El viento realiza la función de mover a los aerogeneradores (molinos); de esta forma se genera corriente por medio del viento.</li>
+							<li><b>Solar:</b> Por medio de paneles, células, se genera corriente eléctrica (fotovolcánicas).</li>
+							<li><b>Mecánica:</b> Un motor eléctrico, recibe y con su eje entrega energía mecánica ==> Motor que mueve una sierra.</li>
+						</ul>
+					</ul>
+				</li>
+				<br>
+				<li><b>Energía mecánica a energía eléctrica</b>
+					<ul>
+						<ul>
+							<br>
+							<li>Por medio de un motor a explosión, se hace girar a un alternador (generador electrónico, o grupo electrogeno)</li>
+						</ul>
+					</ul>
+				</li>
+				<br>
+				<hr>
+				<br>
+				<img src="media/electricidad/bombagua.jpg" />
+				<img src="media/electricidad/bombagua2.jpg" />
+				<br><br><br>
+				<br><br><br>
+				<br><br><br>
+				<br><br><br>
+				<br><br><br>
+				<br><br><br>
+				<br><br><br>
+				<br>
+			</ul>
+			<br>
+			</div>
+			<h2>+ Simbolos electricos</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				
+			<br>
+			</div>
+			<h2>+ Fuentes fijas</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li>Son aquellas en que no se pueden variar su tensión.</li>
+					<img src="media/electricidad/ffijas.jpg">
+				</ul>
+			<br>
+			</div>
+			<h2>+ Fuentes variables</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li>Son aquellas en que se puede variar su tensión por medio de cierto dispositivo.</li>
+					<img src="media/electricidad/fvariables.jpg">
+				</ul>
+			<br>
+			</div>
+			<h2>+ Cconexion de pilas</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<br>
+			</div>
+			<h2>+ Tipos de pilas</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><b>PRIMARIAS:</b> No se puede descargar</li> 
+					<li><b>SECUNDARIAS:</b> Son recargables</li>
+					<br>
+					<hr>
+					<br>
+					<li>Botón</li>
+					<li>Doble AA</li>
+					<li>Triple AA</li>
+					<li>C</li>
+					<li>D</li>
+					<br>
+					<hr>
+					<br>
+					<li class="lsn"><b>BATERÍAS</b>
+					<li>9 v</li>
+					<li>12 v</li>
+					<br>
+					<hr>
+					<br>
+				</ul> 
+			<br>
+			</div>
+			<h2>+ Rectificacion</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<br>
+			</div>
+			<h2>+ Prueba del Diodo con un multimetro</h2>
+			<div id="tab1" class="plegable">
+			<br>
+			<br>
+			</div>
+			<h2>+ Conexion en paralelo</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<img src="">
+				<ul>
+					<li><b>CARACTERÍSTICAS</b>
+						<ul>
+							<ul>
+								<li>Tensión igual en cada resistencia, diferente intensidad de corriente en cada resistencia ==> <span class="fa">Divisor de corriente</span></li>
+							</ul>
+						</ul>
+					</li>
+				</ul>
+			<br>
+			</div>
+			<h2>+ Conexion en serie</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<img src="">
+				<ul>
+					<li><b>CARACTERÍSTICAS</b>
+						<ul>
+							<ul>
+								<li>Igual corriente en cada una de las resistencias, distintas tensiones en cada resistencia ==> <span class="fa">Divisor de tensión</span></li>
+							</ul>
+						</ul>
+					</li>
+				</ul>
+			<br><br>
+			</div>
+			<h2>+ Ley de OHM</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li>La tensión o diferenciua de potencial es directamente proporcional a la intensidad de corriente e inversamente proporcional a la resistencia del circuito</li>
+					<br>
+					<img src="media/electricidad/ohm1.png">
+				</ul>		
+			<br>
+			</div>
+			<h2 class="verde1">+ ENLACES EXTERNOS</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><a href="https://es.wikipedia.org/wiki/Categor%C3%ADa:Tipos_de_pilas" target="_blank">Tipos de pilas I</a></li>
+					<li><a href="https://comunidad.leroymerlin.es/t5/Bricopedia-Bricolaje/Qu%C3%A9-tipos-de-pilas-alcalinas-existen/ta-p/30509" target="_blank">Tipos de pilas II</a></li>
+					<li><a href="https://es.wikipedia.org/wiki/Anexo:Tipos_de_pila" target="_blank">Tipos de pilas III</a></li>
+				</ul>
+			<br>
+			</div>
+			<br>
+			<!-- BIOLOGÍA -->
+			<h1 id="titulo">BIOLOGÍA</h1>
+			<hr><br>
+			<h2>+ MATERIAL DEL PROFE</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><b>MATERIAL 1: <a class="fa" href="media/biologia/bio1.pdf" target="_blank">ver</a> o <a class="fa" href="media/biologia/bio1.pdf" download>descargar</a></b>
+				</ul>			
+			<br>			
+			</div>			
+			<br>
+			<!-- PROGRAMACIÓN -->
+			<h1 id="titulo">PROGRAMACIÓN</h1>
+			<hr><br>
+			<h2>+ PRIMEROS CONCEPTOS</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><b>PROGRAMA:</b> Conjunto de órdenes escritas en un determinado órden que cumplen un fin específico</li>
+					<br>
+					<li><b>LENGUAJE A UTILIZAR:<b/> Java</li>
+					<br>
+					<li><b>IDE:</b> Procesador para escribir código</li>
+					<br>
+					<li><b>SOFTWARE:</b> Eclipse ==> <a href="http://www.eclipse.org/downloads/" target="_blank">descargar</a></li>
+				</ul>
+			<br>
+			</div>
+			<h2>+ VARIABLES</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<table class="octal" style="text-align:left; padding:40px;">
+					<tr>
+						<th></th>
+						<th class="fv">NOMBRE</th>
+						<th></th>
+					</tr>
+					<tr>
+						<th rowspan="4" class="fa"> valores<br>enteros</th>
+						<th class="fv">Byte = almacena 8 bits</th>
+						<th rowspan="6" class="fn"><b>NUMÉRICOS</b><br>- almacena 4 bytes</th>
+					</tr>
+					<tr>
+						<th class="fv">short = almacena 2 bytes</th>
+					</tr>
+					<tr>
+						<th class="fv">int</th>
+					</tr>
+					<tr>
+						<th class="fv">long = almacena 8 bytes</th>
+					</tr>
+					<tr>
+						<th rowspan="2" class="fa">valores decimales</th>
+						<th class="fv">float</th>
+					</tr>
+					<tr>
+						<th class="fv">double = almacena mayor cantidad<br> que float</th>
+					</tr>
+					<tr>
+						<th></th>
+						<th class="fv">char</th>
+						<th></th>
+					</tr>
+					<tr>
+						<th></th>
+						<th class="fv">boolean = lógico</th>
+						<th></th>
+					</tr>
+				</table>
+				<br>
+				<ul>
+					<li><b>CREAR VARIABLE</b>
+						<ul>
+							<ul>
+								<br>
+								<li><span class="fa">int ventas;</span></li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>DEFINIR VALOR</b>
+						<ul>
+							<ul>
+								<br>
+								<li><span class="fa">ventas = 158;</span></li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>OPERADORES ARITMÉTICOS</b>
+						<ul>
+							<ul>
+								<br>
+								<li><span class="fa">+, -, *, /, %</span></li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>OPERADORES DE ASIGNACIÓN</b>
+						<ul>
+							<ul>
+								<br>
+								<li><span class="fa">=</span> // Define el valor de la variable</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>>>>> TODAS LAS VARIABLES SE DEFINEN AL PRINCIPIO <<<<</b></li>
+					<br>
+					<hr>
+					<br>
+					<li><b>EJEMPLO</b>
+						<ul>
+							<ul>
+								<br>
+								<li>int nota1;</li>
+								<li>nota1 = 7;</li>
+								<li>nota2 = nota1 + 4;
+									<ul>
+										<br>
+										<li><b>¿Qué pasó en este último?</b>
+											<ul>
+												<br>
+												<li>nota 1 & 4 = <span class="fa">operando</span></li>
+												<li>+ = <span class="fa">operador</span></li>
+												<li>operando + operador + operando = <span class="fa"><b>EXPRESIÓN</b></span>
+													<ul>
+														<li>El resultado final es guardado en nota2</li>
+													</ul>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<hr>
+					<br>
+					<li><b>PRIORIDAD EN LOS CÁLCULOS</b>
+						<ul>
+							<ul>
+								<li>( ) ==> paréntesis</li>
+								<li>* / % ==> multiplicar, dividir, porcentaje</li>
+								<li>+ - ==> más, resta</li>
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>EJEMPLO</b>
+						<ul>
+							<ol>
+								<br>
+								<li>2 +2 * 4 = 14</li>
+								<li>2 + (3 * 4) = 14</li>
+								<li>(2 + 3) * 4 = 20</li>
+							</ol>
+						</ul>
+					</li>
+				</ul>
+				<br><br>
+			<br>
+			</div>
+			<br>
+			<!-- TALLER DE MANTENIMIENTO -->
+			<h1 id="titulo">TALLER DE MANTENIMIENTO</h1>
+			<hr><br>
+			<h2>+ PRIMEROS CONCEPTOS</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><b>ELECTRICIDAD:</b> Conjunto de fenómenos físicos relacionados con la presencia y flujo de cargas eléctricas</li>
+					<br>
+					<li><b>TIPOS DE CORRIENTES</b>
+						<ul>
+							<ul>
+								<li><b>Corriente alterna =</b> AC</li>
+								<img src="media/taller/clase1_0.jpg">
+								<li><b>Corriente contínua =</b> DC</li>
+								<img src="media/taller/clase1_1.jpg">
+							</ul>
+						</ul>
+					</li>
+					<br>
+					<li><b>UNIDADES</b>
+						<ul>
+							<ul>
+								<br>
+								<li><b>V =</b> voltios</li>
+								<li><b>I =</b> amper</li>
+								<li><b>W =</b> watts</li>
+							</ul>
+						</ul>
+						<br>
+						<li><b>Ejemplos</b>
+							<ul>
+								<br>
+								<li>W = V x I
+									<ul>
+										<li>440w = 220v x 2<sup>A</sup></li>
+										<li>75w = 230v x A ==>0.32</li>
+										<li>25w = 230v x A ==> 0.10</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</li>
+					<br>
+				</ul>
+			<br>
+			</div>
+			<h2>+ BINARIO</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li><b>UNIDADES</b>
+						<ul>
+							<li>0 // 1 ==> Mínima unidad = Bit</li>
+							<li>8 bits ==> 1 byte</li>
+							<br>
+							<li>1 b = 8 bit</li>
+							<li>1 kb = 1024 by</li>
+							<li>1 mb = 1024 kb</li>
+							<li>1 gb = 1024 mb</li>
+							<li>1 tb = 1024 gb</li>
+						</ul>
+					</li>
+					<br>
+					<li><b>¿PORQUÉ 1024?</b></li>
+					<img src="media/taller/binario1.jpg">
+				</ul>
+			<br>
+			</div>
+			<h2>+ CONVERSION DE BINARIO A DECIMAL</h2>
+			<div id="tabg1" class="plegable">
+			<br>
+				<ul>
+					<li><b>EJEMPLO 1</b></li>
+					<img src="media/taller/decim1.jpg">
+					<hr>
+					<br>
+					<li><b>EJEMPLO 2</b></li>
+					<img src="media/taller/decim2.jpg">
+				</ul>
+			<br>
+			</div>
+			<h2>+ CONVERSION DE DECIMAL A BINARIO</h2>
+			<div id="tabg1" class="plegable">
+			<br>
+			<ul>
+				<img src="media/taller/decimal1.jpg">
+			</ul>
+			<br>
+			</div>
+			<h2>+ Sistema de numeracion octal</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<p><b>8<sup>n</sup></b></p>
+				<table id="octal">
+					<tr>
+						<th></th>
+						<th colspan="3">BINARIO</th>
+					</tr>
+					<tr>
+						<th>OCTAL</th>
+						<th>2</th>
+						<th>2</th>
+						<th>2</th>
+					</tr>
+					<tr>
+						<th class="fv">0</th>
+						<th>0</th>
+						<th>0</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">1</th>
+						<th>0</th>
+						<th>0</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">2</th>
+						<th>0</th>
+						<th>1</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">3</th>
+						<th>0</th>
+						<th>1</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">4</th>
+						<th>1</th>
+						<th>0</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">5</th>
+						<th>1</th>
+						<th>0</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">6</th>
+						<th>1</th>
+						<th>1</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">7</th>
+						<th>1</th>
+						<th>1</th>
+						<th>1</th>
+					</tr>
+				</table>
+			<br>
+			</div>
+			<h2>+ Sistema de numeracion hexadecimal</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<table id="octal">
+					<tr>
+						<th></th>
+						<th colspan="4">BINARIO</th>
+					</tr>
+					<tr>
+						<th>HEXADECIMAL</th>
+						<th>2<sup>3</sup></th>
+						<th>2<sup>2</sup></th>
+						<th>2<sup>1</sup></th>
+						<th>2<sup>0</sup></th>
+					</tr>
+					<tr>
+						<th class="fv">0</th>
+						<th>0</th>
+						<th>0</th>
+						<th>0</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">1</th>
+						<th>0</th>
+						<th>0</th>
+						<th>0</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">2</th>
+						<th>0</th>
+						<th>0</th>
+						<th>1</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">3</th>
+						<th>0</th>
+						<th>0</th>
+						<th>1</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">4</th>
+						<th>0</th>
+						<th>1</th>
+						<th>0</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">5</th>
+						<th>0</th>
+						<th>1</th>
+						<th>0</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">6</th>
+						<th>0</th>
+						<th>1</th>
+						<th>1</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">7</th>
+						<th>0</th>
+						<th>1</th>
+						<th>1</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">8</th>
+						<th>1</th>
+						<th>0</th>
+						<th>0</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">9</th>
+						<th>1</th>
+						<th>0</th>
+						<th>0</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">A</th>
+						<th>1</th>
+						<th>0</th>
+						<th>1</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">B</th>
+						<th>1</th>
+						<th>0</th>
+						<th>1</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">C</th>
+						<th>1</th>
+						<th>1</th>
+						<th>0</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">D</th>
+						<th>1</th>
+						<th>1</th>
+						<th>0</th>
+						<th>1</th>
+					</tr>
+					<tr>
+						<th class="fv">E</th>
+						<th>1</th>
+						<th>1</th>
+						<th>1</th>
+						<th>0</th>
+					</tr>
+					<tr>
+						<th class="fv">F</th>
+						<th>1</th>
+						<th>1</th>
+						<th>1</th>
+						<th>1</th>
+					</tr>
+				</table>
+			<br>
+			</div>
+			<br>
+			<!-- MATEMÁTICAS -->
+			<h1 id="titulo">MATEMÁTICAS</h1>
+			<hr><br>
+			<!-- HISTORIA -->
+			<h1>HISTORIA</h1>
+			<hr><br>
+			<h2>+ PRIMER CLASE</h2>
+			<div id="tab1" class="plegable">
+			<br>
+				<ul>
+					<li>VER GOOD BYE, LENIN!
+						<ul>
+							<ul>
+								<br>
+								<li>Ver trailer: <a href="https://www.youtube.com/embed/ZH8o68Yrwbc" target="_blank" class="fa">enlace</a></li>
+								<br>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/ZH8o68Yrwbc" frameborder="0" allowfullscreen></iframe>
+								<br><br>
+								<li>Ver online: <a href="https://ok.ru/video/91746601544" target="_blank" class="fa">enlace</a></li>
+							</ul>
+						</ul>
+					</li>
+			<br>
+			</div>
+		</div>
+	</div>
+	<footer>
+		<div id="intfoot">
+			<br>
+			<p>1º BL - Material © 3050 AC | <a href="https://www.facebook.com/pages/Esi-Escuela-Superior-De-Informatica-utu-Buceo/673000846129635" target="_blank">Facebook</a></p>
+			<br>
+		</div>
+		<br>
+	</footer>
+</body>
+</html>
+<script type="text/javascript" src="js/desplegable.js"></script>
